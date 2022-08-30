@@ -1,5 +1,5 @@
 # paranatural
 
-Repository for experimenting with tlds, dns, and ssl.
+repository for experimenting with tlds, dns, and ssl.
 
-Name inspired by [Paranatural](https://www.paranatural.net), a webcomic.
+name inspired by [Paranatural](https://www.paranatural.net), a webcomic.
