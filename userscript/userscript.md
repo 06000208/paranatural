@@ -16,7 +16,7 @@ If you have any feature ideas, or experience issues/bugs, get in touch with 0600
 1. Get a userscript extension for your browser. These are good choices:
     - [Tampermonkey](https://www.tampermonkey.net) <a href="https://www.tampermonkey.net/"><img src="./tampermonkey.png" alt="Tampermonkey Icon" style="vertical-align: middle; height: 2em;"/></a>
     - [Violentmonkey](https://violentmonkey.github.io/) <a href="https://violentmonkey.github.io/"><img src="./violentmonkey.png" alt="Violentmonkey Icon" style="vertical-align: middle; height: 2em;"/></a>
-2. If you have an extension which supports it, this button will open a page with a prompt to add the userscript:<br><br><a href="./extras.js"><img src="https://img.shields.io/badge/Install%20Userscript-green" alt="Install Userscript" /></a><br><br>If you don't, or if your extension doesn't support it, you'll be presented with the source code instead. In that case, you can select all (tip: use ctrl+a) and copy paste it into your extension.
+2. If you have an extension which supports it, this button will open a page with a prompt to add the userscript:<br><br><a href="./extras.js"><img src="https://img.shields.io/badge/Install%20Userscript-green" alt="Install Userscript" /></a><br><br>If you don't have an extension, or if your extension doesn't support it, you'll be presented with the source code instead. In the latter case, you can select all (tip: use ctrl+a) and copy paste it into your userscript extension.
 
 ## Random Page Icon
 
