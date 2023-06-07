@@ -1,5 +1,3 @@
-[Home Page](../)
-
 # Paranatural Extras
 
 A [userscript](https://en.wikipedia.org/wiki/Userscript) which adds extra features to the paranatural site:
