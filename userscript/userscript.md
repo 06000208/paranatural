@@ -23,6 +23,7 @@ If you have any feature ideas, or experience issues/bugs, get in touch with 0600
 ### 1.0.1
 
 - Made title text code smarter, won't embed it if the title text matches the comic's title, which would already be shown
+- Fix update urls and remove junk
 
 ### 1.0.0
 
@@ -32,9 +33,9 @@ If you have any feature ideas, or experience issues/bugs, get in touch with 0600
 
 ## Random Page Icon
 
-Currently, it uses a starchman star icon for the button. If you make an icon in the style of paranatural's previous/next buttons (see below), such as a question mark or circular arrows, I'll update the userscript to use it and credit you.
+Currently, it uses a starchman star icon for the button. If you make an icon in the style of paranatural's previous/next buttons, such as a question mark or circular arrows, I'll update the userscript to use it and credit you.
 
-#### Paranatural's Buttons
+This is what the buttons look like:
 
 - Purple color scheme
 - Dark purple drop shadow

@@ -4,8 +4,8 @@
 // @version      1.0.1
 // @description  Extra features for readers of paranatural
 // @author       06000208
-// @updateURL    https://paranatural.tk/userscript/extras.js
-// @downloadURL  https://paranatural.tk/userscript/extras.js
+// @updateURL    https://paranatural.tk/userscript/extras.user.js
+// @downloadURL  https://paranatural.tk/userscript/extras.user.js
 // @supportURL   https://paranatural.tk/userscript
 // @homepageURL  https://paranatural.tk/userscript
 // @match        *://paranatural.net/*
