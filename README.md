@@ -6,7 +6,7 @@ This site is a work in progress. If you'd like to help out or contribute, get in
 
 ## Paranatural Extras
 
-A userscript providing extra site features to readers of paranatural. More info and download [available here](./userscript/)
+A userscript providing extra site features to readers of paranatural. More info and download [available here.](./userscript/)
 
 ## Chain links on a baseball bat
 
