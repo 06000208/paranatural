@@ -1,5 +1,6 @@
 ---
 permalink: /userscript/
+description: A userscript which adds extra features to the paranatural site
 ---
 
 # Paranatural Extras
