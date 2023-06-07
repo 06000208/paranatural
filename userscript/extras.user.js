@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Paranatural Extras
 // @namespace    https://github.com/06000208
-// @version      1.0.0
+// @version      1.0.1
 // @description  Extra features for readers of paranatural
 // @author       06000208
 // @updateURL    https://paranatural.tk/userscript/extras.js
@@ -14,11 +14,6 @@
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
-
-/*
-cc-navaux
-"https://paranatural.tk/assets/bigstarbutton.png"
-*/
 
 (function() {
     "use strict";
@@ -89,7 +84,9 @@ cc-navaux
             // Embed title text in description
             const titleText = document.querySelector("#cc-comic").getAttribute("title")?.trim();
             const newsarea = document.querySelector("#newswrap .cc-newsarea");
-            if (titleText && newsarea) {
+            const comicTitle = document.querySelector("#newswrap .cc-newsarea > .cc-newsheader")?.textContent?.trim();
+            // Only embed if the relevant elements exist and the title text doesn't match comic title
+            if (titleText && newsarea && comicTitle && titleText !== comicTitle) {
                 const header = document.createElement("h2");
                 header.textContent = "Title Text";
                 newsarea.insertAdjacentElement("beforeend", header);
